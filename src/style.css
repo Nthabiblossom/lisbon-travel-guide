@@ -147,7 +147,13 @@ section {
 section.secondary {
   background: #f8f8f8;
 }
-
+section h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+section h3 {
+  text-align: center;
+}
 footer {
   color: white;
   background-image: linear-gradient(
